@@ -5,11 +5,11 @@
 }
 
 h1{
-    margin-left: 570px;
+    margin-left: 530px;
 }
 
 h2{
-    margin-left: 620px;
+    margin-left: 560px;
 }
 
 .btn{
@@ -40,4 +40,12 @@ h2{
 
 .purple{
     background-color: #1679AB;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: #2a2a2a;
 }
